@@ -15,8 +15,8 @@ const pessoa ={
 const nome = pessoa.nome;
 const idade = pessoa.idade;
 
-console.log(nome); // Ana
-console.log(idade); // 30
+console.log(nome); // Douglas
+console.log(idade); // 22
 
 Isso se torna algo que se repete e você tem que escrever pessoa. toda vez para conseguir usar o objeto em questão*/
 
