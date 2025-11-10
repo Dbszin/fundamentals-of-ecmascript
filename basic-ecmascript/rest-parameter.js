@@ -18,7 +18,7 @@ que usar uma variável especial chamada arguments.
 E ficava desse jeito
 */
 
-function somaAntiga(){
+function somaAntigo(){
     // 'arguments' não é um array de fato. É um "objeto que se parece  com um array".
     // Você não pode usar .map() ou .reduce() nele de forma simples.
     let total =0;
